@@ -33,7 +33,7 @@ import { closeModal, ModalContent, ModalFooter, ModalHeader, ModalRoot, openModa
 import definePlugin from "@utils/types";
 import { ContextMenuApi, Forms, Menu, Toasts, UserStore } from "@webpack/common";
 
-const CONTRIBUTOR_BADGE = "https://cdn.discordapp.com/emojis/1092089799109775453.png?size=64";
+const CONTRIBUTOR_BADGE = "https://cdn.discordapp.com/attachments/1407566060822986755/1459584844047847566/1-0da2ffe8207ea1f48097f56939ee6201938cf5af.png?ex=6963cfd0&is=69627e50&hm=9563f90162e6313160840e304b615dbc8fdba8621de47952df4e964773ce0f18&";
 
 const ContributorBadge: ProfileBadge = {
     description: "Vencord Contributor",
